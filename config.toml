@@ -1,0 +1,51 @@
+base_url = "https://opskrifter.balling.dev"
+compile_sass = true
+build_search_index = true
+theme = "hermit_zola"
+generate_feed = true
+feed_filename = "rss.xml"
+taxonomies = [
+  {name = "tags", rss = true},
+  {name = "kategorier"},
+]
+
+[markdown]
+# highlight_code = true
+highlight_code = false
+
+[extra]
+home_subtitle = "Familien Ballings Opskrifter"
+
+# footer_copyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+footer_copyright = '<br />Dette værk af <a xmlns:cc="http://creativecommons.org/ns#" href="https://opskrifter.balling.dev" property="cc:attributionName" rel="cc:attributionURL">Kristoffer Winther Balling</a> er licenseret under en <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Kreditering 4.0 International-license</a>'
+
+hermit_menu = [
+    { link = "/opskrifter", name = "Opskrifter" },
+    { link = "/om", name = "Om" }
+]
+
+hermit_social = [
+    { name = "github", link = "https://github.com/balling_dev" },
+    { name = "gitlab", link = "https://gitlab.com/balling-dev" },
+    { name = "stackoverflow", link = "https://stackoverflow.com/users/7604377/kristoffer-winther-balling" },
+    { name = "mastodon", link = "https://hachyderm.io/@balling_dev" },
+    { name = "linkedin", link = "https://dk.linkedin.com/in/balling-dev" },
+    { name = "flickr", link = "https://www.flickr.com/photos/wiba" },
+    { name = "email", link = "mailto:kristoffer@wintherballing.dk" }
+]
+
+[extra.highlightjs]
+#enable = true
+enable = false
+clipboard = true
+theme = "vs2015"
+
+[extra.disqus]
+enable = false
+
+[extra.author]
+name = "Kristoffer Winther Balling"
+email = "kristoffer@wintherballing.dk"
+
+[extra.google_analytics]
+enable = false
