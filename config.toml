@@ -25,7 +25,7 @@ hermit_menu = [
 ]
 
 hermit_social = [
-    { name = "github", link = "https://github.com/balling_dev" },
+    { name = "github", link = "https://github.com/balling-dev" },
     { name = "gitlab", link = "https://gitlab.com/balling-dev" },
     { name = "stackoverflow", link = "https://stackoverflow.com/users/7604377/kristoffer-winther-balling" },
     { name = "mastodon", link = "https://hachyderm.io/@balling_dev" },
