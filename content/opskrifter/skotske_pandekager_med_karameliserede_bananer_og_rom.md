@@ -46,13 +46,13 @@ tilsæt en god del af kærnemælksblandningen. Pisk gradvist melet ind i æg og
 kærnemælk indtil du har en tyk dej uden klumper. Tilsæt derefter resten af
 kærnemælksblandingen.
 
-Varm en sliplet-pande op til medium til høj varme og tilsæt et par teskefulde
+Varm en slip-let-pande op til medium til høj varme og tilsæt et par teskefulde
 solsikkeolie. Sæt fire små pandekager på panden og bag dem 1 min på hver side
 (de skal hæve godt op). Steg resten af pandekagerne på samme måde.
 
 ### Karameliserede bananer
 
-Put sukker i en sliplet-pande og karamelisér det ved middel til høj varme. Når
+Put sukker i en slip-let-pande og karamelisér det ved middel til høj varme. Når
 sukkeret er smeltet og gyldent (et sted mellem lys og mørkt rav) tilsættes
 smøret. Når smøret er smeltet og bruset af tilsættes de skårne bananer og vendes
 rund på panden i 1 til 2 min. Derefter tilsættes rommen og den antændes for at
